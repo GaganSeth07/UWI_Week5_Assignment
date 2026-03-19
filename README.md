@@ -46,11 +46,11 @@ The objective was to:
 
 ## ⚙️ Installation
 
-Install required libraries: pip install pandas numpy matplotlib seaborn scikit-learn
+**Install required libraries:** pip install pandas numpy matplotlib seaborn scikit-learn
 
-Run the notebook: jupyter notebook
+**Run the notebook:** jupyter notebook
 
-Open: notebook/House Price Prediction.ipynb
+**Open:** notebook/House Price Prediction.ipynb
 
 ---
 
